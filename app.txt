@@ -1,0 +1,4 @@
+day 1 devops
+Docker is important for DevOps
+Linux is important for DevOps
+Kubernetes is used in DevOps
