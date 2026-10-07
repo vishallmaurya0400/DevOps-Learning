@@ -6,7 +6,7 @@ Git branching practice
 Git branching practice
 
 Main branch change
-Devlop branch Changes
+Devlop branch ChangesD
 Testing Git diff
 Temporary work
 Temporary work
